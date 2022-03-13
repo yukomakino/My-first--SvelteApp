@@ -1,1 +1,1 @@
-# My-first--SvelteApp
+# My-first-SvelteApp
